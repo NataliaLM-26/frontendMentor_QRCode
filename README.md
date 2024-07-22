@@ -13,8 +13,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/NatLM/Frontend-QRcode)
-- Live Site URL: [Add live site URL here]()
+- [Solution URL](https://github.com/NataliaLM-26/frontendMentor_QRCode)
+- [Live Site URL](https://front-codigoqr.netlify.app/)
 
 
 ## My process
