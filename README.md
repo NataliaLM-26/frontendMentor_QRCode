@@ -29,6 +29,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [Natalia López Miranda](https://natlm.github.io/)
-- Frontend Mentor - [@NatLM](https://www.frontendmentor.io/profile/NatLM)
-- Twitter - [@NatLM_02](https://www.twitter.com/NatLM_02)
+- Website - [Natalia López Miranda](https://github.com/NataliaLM-26)
+- Frontend Mentor - [@NatLM](https://www.frontendmentor.io/profile/NataliaLM-26)
+- Twitter - [@NatLM_02](https://x.com/NataliaLM_26)
